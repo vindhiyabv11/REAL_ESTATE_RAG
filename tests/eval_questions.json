@@ -1,0 +1,39 @@
+{
+    "urls": [
+        "https://www.cnbc.com/2024/12/21/how-the-federal-reserves-rate-policy-affects-mortgages.html",
+        "https://www.cnbc.com/2024/12/20/why-mortgage-rates-jumped-despite-fed-interest-rate-cut.html"
+    ],
+    "questions": [
+        {
+            "question": "What is the new interest rate range decided by the Fed?",
+            "expected_keywords": [
+                "4.25",
+                "4.50"
+            ]
+        },
+        {
+            "question": "By how much did the Fed cut rates at its December meeting?",
+            "expected_keywords": [
+                "0.25"
+            ]
+        },
+        {
+            "question": "How many times did the Fed cut interest rates in 2024?",
+            "expected_keywords": [
+                "three"
+            ]
+        },
+        {
+            "question": "Why did mortgage rates jump even though the Fed cut rates?",
+            "expected_keywords": [
+                "treasury"
+            ]
+        },
+        {
+            "question": "What is the capital of France?",
+            "expected_keywords": [
+                "contain"
+            ]
+        }
+    ]
+}

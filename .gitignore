@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/chroma_db/
+.pytest_cache/
+.DS_Store
+
+data/chroma_db/
+data/eval_results/*.csv
+data/eval_archive/
+.ruff_cache/
+ragas_log.txt
+errors.txt

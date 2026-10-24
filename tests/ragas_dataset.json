@@ -1,0 +1,146 @@
+{
+    "urls": [
+        "https://www.housingwire.com/articles/trump-order-mortgage-insurance/",
+        "https://www.housingwire.com/articles/the-10-year-yield-is-under-5-are-sub-7-mortgage-rates-next/",
+        "https://www.housingwire.com/articles/btr-exemptions-institutional-investor-ban/",
+        "https://www.housingwire.com/articles/why-mortgage-leaders-are-betting-on-home-equity-through-2027/",
+        "https://www.housingwire.com/articles/most-agents-say-cmas-will-become-more-relevant-despite-ai-growth/",
+        "https://www.housingwire.com/articles/mortgage-servicing-recapture-tools/",
+        "https://www.housingwire.com/articles/internal-ai-ecosystem-a-big-win-for-independent-arizona-brokerage/",
+        "https://www.housingwire.com/articles/sothebys-mclaughlin-ceo/"
+    ],
+    "questions": [
+        {
+            "question": "What does the executive order signed by President Trump on October 22, 2026 direct FHFA to do about mortgage insurance?",
+            "reference": "The order directs FHFA to create a pilot program to proactively cancel mortgage insurance premiums for borrowers who meet equity requirements."
+        },
+        {
+            "question": "Which agencies are directed to reduce interest rates on their single-family home loans under the Trump housing executive order?",
+            "reference": "The secretaries of USDA and VA are directed to reduce interest rates on single-family home loans made by their departments."
+        },
+        {
+            "question": "What does the Trump housing executive order establish for manufactured housing?",
+            "reference": "The order establishes a task force for improving the quality and lowering the cost of manufactured housing."
+        },
+        {
+            "question": "According to KBW analysts, why might the executive order's title insurance expansion have limited impact on title insurers?",
+            "reference": "KBW analysts noted that refinances account for only around 7% of title premiums, so the impact may be limited if the program covers only refinances."
+        },
+        {
+            "question": "What level did the 10-year Treasury yield fall to, according to Logan Mohtashami?",
+            "reference": "The 10-year Treasury yield fell to 4.97% at the time of writing."
+        },
+        {
+            "question": "Which key yield level did the 10-year Treasury fail to sustain a move above, according to Logan Mohtashami?",
+            "reference": "The 10-year yield failed to sustain a move above 5.35%, triggering a technical reversal."
+        },
+        {
+            "question": "What mortgage rate level does Logan Mohtashami want rates to get back under?",
+            "reference": "Mohtashami wants mortgage rates to get back under 6.64%, which requires the 10-year yield to move lower."
+        },
+        {
+            "question": "Why does Logan Mohtashami say the 10-year yield moved higher toward 5.35% this month?",
+            "reference": "He says the Federal Reserve has said many times that the AI boom is inflationary and gives a boost to the economy, which pushed the 10-year yield higher toward 5.35%."
+        },
+        {
+            "question": "Which law's ban on institutional investors buying single-family homes is Treasury's proposal carving exemptions from?",
+            "reference": "The exemptions are carved out of the ban in the 21st Century ROAD to Housing Act."
+        },
+        {
+            "question": "How long do institutional investors have to buy newly built build-to-rent communities under Treasury's proposal?",
+            "reference": "The proposal gives institutional investors an 18-month window to buy newly built BTR communities."
+        },
+        {
+            "question": "Under the ROAD Act, which investors are banned from buying additional single-family homes, and when does the ban take effect?",
+            "reference": "The ban applies to investors owning 350 or more single-family homes and takes effect January 7, 2027."
+        },
+        {
+            "question": "What penalty can violations of the ROAD Act's institutional investor ban bring, according to the Treasury BTR article?",
+            "reference": "Violations could bring civil penalties of up to $1 million or three times the property's purchase price, including land."
+        },
+        {
+            "question": "How much in home equity originations does Deephaven's Tom Davis expect in 2026?",
+            "reference": "Tom Davis expects home equity originations to reach about $150 billion in 2026."
+        },
+        {
+            "question": "How much home equity does Deephaven's Tom Davis estimate exists as a potential source of lending volume?",
+            "reference": "Davis estimated that about $35 trillion in home equity exists as a potential source of lending volume."
+        },
+        {
+            "question": "What average recapture rate did Tom Davis estimate for independent mortgage banks?",
+            "reference": "Davis estimated that recapture rates among independent mortgage banks average 30% to 35%."
+        },
+        {
+            "question": "What does Blue Sage Solutions' Joey McDuffee say more borrowers want to do instead of relocating?",
+            "reference": "McDuffee said more and more borrowers want to renovate, not relocate."
+        },
+        {
+            "question": "What share of respondents in the 2026 CMA survey said CMAs will become more relevant in the future?",
+            "reference": "89.6% of respondents said CMAs will become more relevant in the future, up from 67% in 2020."
+        },
+        {
+            "question": "How many real estate professionals responded to the Giant Steps Advisors and Lone Wolf Technologies 2026 CMA survey?",
+            "reference": "The survey had 2,165 U.S. real estate professionals respond between November 2025 and February 2026."
+        },
+        {
+            "question": "What did the CMA survey find about agents' willingness to let algorithms handle home pricing?",
+            "reference": "Agents are embracing AI, but they aren't ready to hand over the business of pricing homes to algorithms."
+        },
+        {
+            "question": "What percentage of CMA survey respondents trust the multiple listing service above other sources for comparable property information?",
+            "reference": "90.8% of respondents trust the multiple listing service above other sources."
+        },
+        {
+            "question": "What is the name of the Scottsdale, Arizona brokerage that built an internal AI ecosystem, and who is its broker-owner?",
+            "reference": "The brokerage is Incyte Realty, led by broker-owner Frank Vazquez."
+        },
+        {
+            "question": "What tasks does Incyte Realty's AI assistant Morgan handle?",
+            "reference": "Morgan handles front-desk reception, property sign calls, text conversations and appointment scheduling."
+        },
+        {
+            "question": "How did average production per agent at Incyte Realty change, according to the article?",
+            "reference": "Average production increased from 6.3 transactions per agent to nearly eight."
+        },
+        {
+            "question": "How many leads per week does Incyte Realty's consumer-direct mortgage tool generate for participating lenders?",
+            "reference": "The tool generates roughly 50 to 60 leads a week for participating lenders."
+        },
+        {
+            "question": "Who was appointed president and CEO of Sotheby's International Realty, and when does the appointment take effect?",
+            "reference": "Mark McLaughlin was appointed president and CEO of Sotheby's International Realty, effective Nov. 1."
+        },
+        {
+            "question": "What role is Philip White transitioning into at Sotheby's International Realty, and how large did the network grow under him?",
+            "reference": "Philip White will become executive chairman after helping grow the network to 1,100 offices in 86 countries."
+        },
+        {
+            "question": "How did Sotheby's International Realty become part of the Compass ecosystem?",
+            "reference": "Compass's acquisition of Sotheby's parent company, Anywhere Real Estate, closed earlier this year, and Sotheby's is continuing its integration into the Compass International Holdings ecosystem."
+        },
+        {
+            "question": "How many mergers and acquisitions did Mark McLaughlin lead while scaling his previous brokerage, and to what sales volume?",
+            "reference": "McLaughlin led 12 mergers and acquisitions while scaling the brokerage to $14.1 billion in sales volume."
+        },
+        {
+            "question": "Which two government actions affecting housing were reported on October 22, 2026?",
+            "reference": "President Trump signed a housing executive order covering mortgage insurance, title insurance waivers, manufactured housing and USDA and VA loan rates, and the Treasury issued a proposed rule with exemptions for build-to-rent communities from the ROAD Act's institutional investor ban."
+        },
+        {
+            "question": "What do the articles say about the role of refinances in title insurance versus the home equity market?",
+            "reference": "KBW analysts note that refinances account for only around 7% of title premiums, while Deephaven's Tom Davis says the cash-out game today is equity, not traditional refis."
+        },
+        {
+            "question": "What do the CMA survey article and the Incyte Realty article say about AI in real estate brokerages?",
+            "reference": "The CMA survey found 83.2% of agents are likely to use AI-assisted CMA tools but they won't hand pricing over to algorithms, while Incyte Realty uses an AI assistant named Morgan to handle reception and scheduling."
+        },
+        {
+            "question": "What rate-lowering efforts or targets appear in the Trump executive order article and the Logan Mohtashami 10-year yield article?",
+            "reference": "The executive order directs USDA and VA to reduce interest rates on their single-family home loans, and Mohtashami says the goal is to get mortgage rates back under 6.64% by pushing the 10-year yield lower."
+        },
+        {
+            "question": "How do the Trump executive order and Treasury's BTR proposal each address new or manufactured housing?",
+            "reference": "The executive order sets up a task force to improve quality and lower the cost of manufactured housing, while Treasury's proposal exempts purpose-built build-to-rent communities bought within 18 months after receiving a certificate of occupancy from the investor ban."
+        }
+    ]
+}
